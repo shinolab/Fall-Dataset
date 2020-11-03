@@ -69,7 +69,7 @@ This dataset contains 3D positions of body joints in disturbance-induced fall us
 - [Columns 79] : Check the frame rate of kinect V2
 - [Columns 80] : Fall instructions was Displaying or not (0:Not Displaying,1:Displaying)
 
-![骨格の場所.003](/uploads/e6a63621664dc68a5b4d08e7d61286f2/骨格の場所.003.jpeg)
+![骨格の場所 003](https://user-images.githubusercontent.com/72964903/97974724-5daca080-1e0b-11eb-9089-426ca8481251.jpeg)
 
 
 ## Citing
