@@ -3,7 +3,7 @@
 This dataset contains 3D positions of body joints in disturbance-induced fall using kinect V2.
 
 ## LAYOUT
-![図.002](/uploads/0846cdb22921ccabdea8398c5145feea/図.002.jpeg)
+![図 002](https://user-images.githubusercontent.com/72964903/97974651-3f46a500-1e0b-11eb-892d-2e8ed51a8aac.jpeg)
 
 ## SUBJECTS
 
